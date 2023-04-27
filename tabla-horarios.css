@@ -7,6 +7,10 @@ table {
     width: 100%;
 } 
 
+table.th {
+    text-align: inline;
+} 
+
 h3 {
     text-align: center;
 }
